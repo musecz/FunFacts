@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fun Facts</string>
+    <string name="show_another_fun_fact">Show another fun fact</string>
+    <string name="hand_stretch_when_waking_up_in_the_morning">Hand stretch when waking up in the morning</string>
+    <string name="my_fun_fact_app">my Fun Fact App</string>
+    <string name="did_you_know">Did you know ?</string>
+</resources>
